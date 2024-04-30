@@ -70,11 +70,10 @@ const Footer = () => {
             >
               <FontAwesomeIcon icon={social.icon} size="lg" />
             </a>
-            
           ))}
         </div>
       </div>
-    </footer>  
+    </footer>
   );
 };
 
